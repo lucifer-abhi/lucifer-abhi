@@ -19,7 +19,7 @@
 ### 🛠️ Languages and Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,html,css,js,python,django,java" />
+  <img src="https://skillicons.dev/icons?i=c,html,css,js,python,django,java,mongodb" />
 </p>
 
 ---
@@ -33,10 +33,13 @@
 
 ---
 
-### 💬 Quote
+### 🧠 Developer Mindset
 
+> Build. Break. Learn. Repeat.
+> Turning ideas into real-world projects 🚀
+> Always shipping, always improving.
 > “Consistency beats talent when talent doesn’t work hard.”
 
 ---
 
-⭐ **Thanks for visiting my profile!**
+<p align="center"> ⭐ **Thanks for visiting my profile!** </p>
