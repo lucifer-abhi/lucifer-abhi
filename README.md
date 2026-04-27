@@ -1,18 +1,81 @@
-<h1 align="center">Hi 👋, I'm Abhyuday Srivastava</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1 align="center">Hey 👋, I'm Abhyuday Srivastava</h1>
+<h3 align="center">🚀 Frontend Developer | Python Enthusiast | Tech Learner</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lucifer-abhi&label=Profile%20views&color=0e75b6&style=flat" alt="lucifer-abhi" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lucifer-abhi" alt="lucifer-abhi" /></a> </p>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.youtube.com/channel/UCbcgZkMZpyhZAH-x-ub0ohQ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@vloglearnerhubyt" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=lucifer-abhi&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lucifer-abhi&show_icons=true&locale=en&layout=compact" alt="lucifer-abhi" /></p>
+### 👨‍💻 About Me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lucifer-abhi&show_icons=true&locale=en" alt="lucifer-abhi" /></p>
+- 🔭 Currently working on **Web Development Projects**
+- 🌱 Learning **Advanced JavaScript & Django**
+- 💡 Interested in **AI, ML & Full Stack Development**
+- ⚡ Fun fact: *I debug more than I code 😄*
+
+---
+
+### 🌐 Connect With Me
+
+<p align="left">
+<a href="https://www.youtube.com/channel/UCbcgZkMZpyhZAH-x-ub0ohQ" target="blank">
+<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/youtube/youtube-original.svg" height="40" width="40" />
+</a>
+</p>
+
+---
+
+### 🛠️ Languages and Tools
+
+<p align="left"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
+<img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/>
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=lucifer-abhi&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lucifer-abhi&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucifer-abhi&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=lucifer-abhi&theme=onedark&margin-w=10&margin-h=10"/>
+</p>
+
+---
+
+### 🔥 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lucifer-abhi&theme=tokyo-night" />
+</p>
+
+---
+
+### 💬 Quote
+
+> “Consistency beats talent when talent doesn’t work hard.”
+
+---
+
+⭐ **Thanks for visiting my profile!**
