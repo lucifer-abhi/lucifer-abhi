@@ -35,10 +35,10 @@
 
 ### 🧠 Developer Mindset
 
-> Build. Break. Learn. Repeat.**
-> Turning ideas into real-world projects 🚀**
-> Always shipping, always improving.**
-> “Consistency beats talent when talent doesn’t work hard.*
+- **Build. Break. Learn. Repeat.**
+- **Turning ideas into real-world projects 🚀**
+- **Always shipping, always improving.**
+- **Consistency beats talent when talent doesn’t work hard.*
 
 ---
 
