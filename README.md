@@ -38,8 +38,8 @@
 - **Build. Break. Learn. Repeat.**
 - **Turning ideas into real-world projects 🚀**
 - **Always shipping, always improving.**
-- **Consistency beats talent when talent doesn’t work hard.*
+- **Consistency beats talent when talent doesn’t work hard.**
 
 ---
 
-<p align="center"> ⭐ **Thanks for visiting my profile!** </p>
+<p align="center"> ⭐ **Thanks for visiting my profile !** </p>
