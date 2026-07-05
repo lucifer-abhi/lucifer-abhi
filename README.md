@@ -24,12 +24,7 @@
 
 ---
 
-### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lucifer-abhi&show_icons=true&theme=tokyonight" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucifer-abhi&layout=compact&theme=tokyonight" height="160"/>
-</p>
 
 ---
 
