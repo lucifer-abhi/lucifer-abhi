@@ -24,10 +24,6 @@
 
 ---
 
-
-
----
-
 ### 🧠 Developer Mindset
 
 - **Build. Break. Learn. Repeat.**
